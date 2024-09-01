@@ -1,2 +1,7 @@
-# Ejercicio-12-guess-the-number
-Este script en Python genera un número aleatorio entre 1 y 20 y pide al usuario que lo adivine. El programa da pistas sobre si el número es muy alto o muy bajo y repite las adivinanzas hasta que el usuario acierte, utilizando un bucle while y break para salir del bucle cuando el número es correcto.
+# Guess the Number
+
+Este repositorio contiene un script en Python que genera un número aleatorio entre 1 y 20 y desafía al usuario a adivinarlo. El programa proporciona pistas sobre si el número ingresado es muy alto o muy bajo, y permite adivinar repetidamente hasta que el usuario acierte.
+
+## Descripción
+
+El script genera un número aleatorio entre 1 y 20. Luego, solicita al usuario que adivine el número. Si el número ingresado es incorrecto, el programa informa si es muy alto o muy bajo y permite al usuario intentar nuevamente. Este proceso se repite en un bucle `while` hasta que el usuario adivine el número correctamente. El programa utiliza la instrucción `break` para salir del bucle cuando se acierta.
